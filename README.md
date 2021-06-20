@@ -1,5 +1,5 @@
 <p>
-  <img src = "/screenshots/app_icon_round.png" width = "100" title = "MeyMey App Icon">
+  <img src = "/screenshots/app_icon_round.png" title = "MeyMey App Icon">
 </p>
 
 
