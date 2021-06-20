@@ -1,4 +1,9 @@
-# MeyMey-Android-App
+<p>
+  <img src = "/screenshots/app_icon_round.png" width = "100" title = "MeyMey App Icon">
+</p>
+
+
+# MeyMey-Android-App  
 Android app that fetches memes from a reddit API and showcases in a recycler view (staggered grid and list view). The memes can be added to favorites or can be directly sent to others
 
 - Save your favourite memes
