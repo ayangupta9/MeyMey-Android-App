@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:title="Choose Layout"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/grid_layout_item"
+                android:title="GRID"
+                tools:ignore="HardcodedText" />
+            <item
+                android:id="@+id/list_layout_item"
+                android:title="LIST"
+                tools:ignore="HardcodedText" />
+        </menu>
+    </item>
+
+</menu>
