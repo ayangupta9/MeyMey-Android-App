@@ -6,3 +6,11 @@ Android app that fetches memes from a reddit API and showcases in a recycler vie
 - Share memes to your friends
 - Pull to refresh 
 - Contact via different socials
+
+<p align="center">
+  <img src="/screenshots/1.jpg" width="350" title="screenshot 1 (home screen grid view)">
+  <img src="/screenshots/2.jpg" width="350" title="screenshot 2 (home screen list view)">
+  <img src="/screenshots/3.jpg" width="350" title="screenshot 3 (meme screen)">
+  <img src="/screenshots/4.jpg" width="350" title="screenshot 4 (home screen drawer)">
+  <img src="/screenshots/5.jpg" width="350" title="screenshot 5 (favorites)">
+</p>
